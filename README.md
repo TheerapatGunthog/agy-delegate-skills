@@ -1,6 +1,6 @@
 # agy-delegate
 
-> A [Claude Code](https://claude.ai/code) skill that turns a plain-English task description into a fully executed, reviewed, and mergeable git branch — delegated to the headless [Antigravity CLI](https://github.com/google-gemini/aistudio-agy) (`agy`).
+> A [Claude Code](https://claude.ai/code) skill that turns a plain-English task description into a fully executed, reviewed, and mergeable git branch — delegated to the headless [Antigravity CLI](https://antigravity.google/product/antigravity-cli) (`agy`).
 
 ![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-blueviolet)
 ![requires agy](https://img.shields.io/badge/requires-agy-orange)
